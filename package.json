@@ -1,6 +1,6 @@
 {
-  "author": "Zubair Idris Aweda",
   "name": "freecodecamp_node",
+  "author": "Zubair",
   "version": "1.0.0",
   "description": "My first course on api and microservices with nodejs",
   "main": "index.js",
