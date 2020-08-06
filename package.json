@@ -1,5 +1,6 @@
 {
   "name": "freecodecamp_node",
+  "author": "Zubair Idris Aweda",
   "version": "1.0.0",
   "description": "My first course on api and microservices with nodejs",
   "main": "index.js",
@@ -10,7 +11,6 @@
     "type": "git",
     "url": "git+https://github.com/Zubs/freeCodeCamp_node.git"
   },
-  "author": "Zubair Idris Aweda",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Zubs/freeCodeCamp_node/issues"
