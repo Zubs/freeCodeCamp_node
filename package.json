@@ -1,5 +1,5 @@
 {
-	"author": "Zubair",
+	"version": "1.2.0",
 	"name": "freecodecamp_node",
 	"dependencies": {
 		"express": "^4.14.0"
