@@ -2,9 +2,15 @@
 	"version": "1.2.0",
 	"name": "freecodecamp_node",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "^2.29.1"
 	},
-	"keywords": [ "descriptive", "related", "words", "freecodecamp" ],
+	"keywords": [
+		"descriptive",
+		"related",
+		"words",
+		"freecodecamp"
+	],
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js",
