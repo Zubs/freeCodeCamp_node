@@ -15,5 +15,6 @@
 		"url": "https://github.com/Zubs/freecodecamp_node.git"
 	},
 	"author": "Zubs <zubairidrisaweda@gmail.com>",
-	"description": "A project that does something awesome"
+	"description": "A project that does something awesome",
+	"license": "MIT"
 }
