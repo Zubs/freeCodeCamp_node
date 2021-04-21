@@ -1,16 +1,10 @@
-{
-	"version": "1.2.0",
+
+	"author": "Zubair",
 	"name": "freecodecamp_node",
 	"dependencies": {
-		"express": "^4.14.0",
-		"moment": "2.14.0"
+		"express": "^4.14.0"
 	},
-	"keywords": [
-		"descriptive",
-		"related",
-		"words",
-		"freecodecamp"
-	],
+	"keywords": [ "descriptive", "related", "words", "freecodecamp" ],
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js",
@@ -22,5 +16,6 @@
 	},
 	"author": "Zubs <zubairidrisaweda@gmail.com>",
 	"description": "A project that does something awesome",
-	"license": "MIT"
+	"license": "MIT",
+	"version": "1.2.0"
 }
