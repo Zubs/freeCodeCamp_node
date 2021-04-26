@@ -1,25 +1,14 @@
 {
-	"version": "1.2.0",
-	"name": "freecodecamp_node",
+	"name": "fcc-learn-node-with-express",
+	"version": "0.1.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"body-parser": "^1.15.2",
+		"cookie-parser": "^1.4.3",
+		"fcc-express-bground": "https://github.com/freeCodeCamp/fcc-express-bground-pkg.git"
 	},
-	"keywords": [
-		"descriptive",
-		"related",
-		"words",
-		"freecodecamp"
-	],
 	"main": "server.js",
 	"scripts": {
-		"start": "node server.js",
-		"dev": "nodemon server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/Zubs/freecodecamp_node.git"
-	},
-	"author": "Zubs <zubairidrisaweda@gmail.com>",
-	"description": "A project that does something awesome",
-	"license": "MIT"
+		"start": "node server.js"
+	}
 }
